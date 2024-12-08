@@ -1,5 +1,11 @@
 {
-  "version": "1",
-  "url": "https://github.com/ffboye/AZP.NET-Updater/releases/download/ver-1/AZP.NET.zip",
-  "changelog": "NEW VERSION."
+  "url": "https://github.com/ffboye/AZP.NET-Updater/releases",
+  "assets_url": "https://github.com/ffboye/AZP.NET-Updater/releases/tag/ver-1",
+  "tag_name": "ver-1",
+  "name": "Release v1",
+  "assets": [
+    {
+      "browser_download_url": "https://github.com/ffboye/AZP.NET-Updater/releases/download/ver-1/AZP.NET.zip"
+    }
+  ]
 }
