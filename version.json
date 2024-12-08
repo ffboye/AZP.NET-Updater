@@ -1,4 +1,4 @@
 {
-  "version": "ver-1",
-  "download_url": "https://github.com/ffboye/AZP.NET-Updater/releases/download/ver-1/AZP.NET.zip"
+  "latestVersion": "1.0.1",
+  "updateUrl": "https://github.com/ffboye/AZP.NET-Updater/releases/download/ver-1/AZP.NET.zip"
 }
