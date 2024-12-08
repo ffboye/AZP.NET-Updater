@@ -2,7 +2,7 @@
     "tag_name": "v1.1.0",
     "assets": [
         {
-            "name": "AZ.NET.zip",
+            "name": "AZP.NET.zip",
             "browser_download_url": "https://github.com/ffboye/AZP.NET-Updater/releases/download/ver-1/AZP.NET.zip"
         }
     ]
